@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.box-button {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin: 1em;
+  padding: 0.7em;
+  width: 100px;
+  border-radius: 20px;
+  letter-spacing: 1.5px;
+  background-color: rgb(235, 176, 16);
+  border: 1px solid transparent;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+}
